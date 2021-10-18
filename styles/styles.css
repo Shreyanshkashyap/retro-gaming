@@ -1,0 +1,14 @@
+body{
+    margin: auto;
+    text-align: center;
+}
+.heading1{
+    height: 1.5rem;
+    color: #416285;
+}
+.para{
+    margin-top: 100px;
+    color: #ffff;
+    font-size:large;
+    
+}

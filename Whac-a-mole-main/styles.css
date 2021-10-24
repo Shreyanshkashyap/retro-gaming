@@ -15,8 +15,8 @@ body{
 .square{
     height: 200px;
     width: 200px;
-    border-color: black;
-    border:solid black 1px;
+    border-color: #fff;
+    border:solid #fff 1px;
 }
 
 .mole{

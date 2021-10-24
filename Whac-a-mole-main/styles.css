@@ -1,9 +1,13 @@
+body{
+    background:#333;
+    text-color:FEE440;
+}
 .grid {
     width: 606px;
     height: 606px;
     display: flex;
     flex-wrap: wrap;
-    border: solid black 2px;
+    border: solid #fff 2px;
     justify-content: center;
   align-content: center;
 }

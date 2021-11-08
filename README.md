@@ -4,14 +4,16 @@ When a game released in the classic retro era, that was it. There was no need to
 It was good to go, packaged within a cartridge for players to consume. Having a complete game was everything, and something you don't see too often these days.
 In this day and age, if you're stuck in a game, a walkthrough is as simple as checking YouTube or Prima Games. However, back in the 80s and early 90s, you often had to rely on a friend or game magazine to provide you with the necessary tips.
 
-List of Games :
+# List of Games :
 
-1. Whack a Mole  
-2. Tic- Tac –Toe  
-3. Space Invaders  
-4. Minesweeper
-5. Snake Nokia 3310
-6. Flappy bird
+1. Whack a Mole 
+2. Pacman
+3. MAze Runner 
+4. Tic- Tac –Toe  
+5. Space Invaders  
+6. Minesweeper
+7. Flappy bird
+
 
 ![image](https://user-images.githubusercontent.com/88978764/140696489-e99c9d8f-88e8-4c51-a04c-3a5146de7b38.png)
 

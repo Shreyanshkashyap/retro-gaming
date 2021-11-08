@@ -14,6 +14,7 @@ In this day and age, if you're stuck in a game, a walkthrough is as simple as ch
 6. Minesweeper
 7. Flappy bird
 
+# Screenshots:
 
 ![image](https://user-images.githubusercontent.com/88978764/140696489-e99c9d8f-88e8-4c51-a04c-3a5146de7b38.png)
 
